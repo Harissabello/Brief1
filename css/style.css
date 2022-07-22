@@ -178,18 +178,7 @@ nav ul li a:hover{
     font-family: Roboto-regular;
     margin-left: 10px;
  }
- .bloc5 .btn2{
-    width: 130px;
-    height: 35px;
-    background-color: transparent;
-    border: none;
- }
- .bloc5 .btn2:hover{
-    width: 130px;
-    height: 35px;
-    background-color: rgb(243, 243, 243);
-    border: none;
- }
+
  .lien6{
     font-weight: bold;
     color: black;
@@ -600,9 +589,10 @@ nav ul li a:hover{
 }
 
 .imj15{
-   width: 28px;
-   height: 28px;
-   background: url('../image/_s_-z8whhABHne08dpjzYt20a4Q.svg') no-repeat center center;
+   width: 30px;
+   height: 30px;
+   border-radius: 50%;
+   background: url('../image/images.png') no-repeat center center;
    background-size: cover;
    margin: 3px 0 0 234px;
 }
@@ -717,7 +707,7 @@ nav ul li a:hover{
    width: 272px;
    height: 226px;
    border: 1px solid rgba(128, 128, 128, 0);
-   background: url("../image//Users/harissa/Downloads/images (5).jpeg") no-repeat top;
+   background: url("../image/images\ \(15\).jpeg") no-repeat top;
    background-size: cover;
    border-radius: 6px;
    box-shadow: 0px 0px 3px rgba(128, 128, 128, 0.483);
@@ -726,7 +716,7 @@ nav ul li a:hover{
    width: 272px;
    height: 226px;
    border: 1px solid rgba(128, 128, 128, 0);
-   background: url("../image/téléchargement (4).jpeg") no-repeat top;
+   background: url("../image/images\ \(8\).jpeg") no-repeat top;
    background-size: cover;
    border-radius: 6px;
    box-shadow: 0px 0px 3px rgba(128, 128, 128, 0.483);
@@ -735,7 +725,7 @@ nav ul li a:hover{
    width: 272px;
    height: 226px;
    border: 1px solid rgba(128, 128, 128, 0);
-   background: url("../image/téléchargement (21).jpeg") no-repeat top;
+   background: url("../image/images\ \(7\).jpeg") no-repeat top;
    background-size: cover;
    border-radius: 6px;
    box-shadow: 0px 0px 3px rgba(128, 128, 128, 0.483);
@@ -744,7 +734,7 @@ nav ul li a:hover{
    width: 272px;
    height: 226px;
    border: 1px solid rgba(128, 128, 128, 0);
-   background: url("../image/téléchargement (3).jpeg") no-repeat top;
+   background: url("../image/images\ \(13\).jpeg") no-repeat top;
    background-size: cover;
    border-radius: 6px;
    box-shadow: 0px 0px 3px rgba(128, 128, 128, 0.483);
@@ -767,7 +757,7 @@ nav ul li a:hover{
    width: 272px;
    height: 226px;
    border: 1px solid rgba(128, 128, 128, 0);
-   background: url("../image/téléchargement (12).jpeg") no-repeat top;
+   background: url("../image/images\ \(14\).jpeg") no-repeat top;
    background-size: cover;
    border-radius: 6px;
    box-shadow: 0px 0px 3px rgba(128, 128, 128, 0.483);
@@ -776,7 +766,7 @@ nav ul li a:hover{
    width: 272px;
    height: 226px;
    border: 1px solid rgba(128, 128, 128, 0);
-   background: url("../image/téléchargement (3).jpeg") no-repeat top;
+   background: url("../image/images\ \(15\).jpeg") no-repeat top;
    background-size: cover;
    border-radius: 6px;
    box-shadow: 0px 0px 3px rgba(128, 128, 128, 0.483);
@@ -785,7 +775,7 @@ nav ul li a:hover{
    width: 272px;
    height: 226px;
    border: 1px solid rgba(128, 128, 128, 0);
-   background: url("../image/téléchargement (13).jpeg") no-repeat top;
+   background: url("../image/images\ \(16\).jpeg") no-repeat top;
    background-size: cover;
    border-radius: 6px;
    box-shadow: 0px 0px 3px rgba(128, 128, 128, 0.483);
@@ -794,7 +784,7 @@ nav ul li a:hover{
    width: 272px;
    height: 226px;
    border: 1px solid rgba(128, 128, 128, 0);
-   background: url("../image/téléchargement (14).jpeg") no-repeat top;
+   background: url("../image/images\ \(17\).jpeg") no-repeat top;
    background-size: cover;
    border-radius: 6px;
    box-shadow: 0px 0px 3px rgba(128, 128, 128, 0.483);
@@ -803,7 +793,7 @@ nav ul li a:hover{
    width: 272px;
    height: 226px;
    border: 1px solid rgba(128, 128, 128, 0);
-   background: url("../image/téléchargement (15).jpeg") no-repeat top;
+   background: url("../image/images\ \(19\).jpeg") no-repeat top;
    background-size: cover;
    border-radius: 6px;
    box-shadow: 0px 0px 3px rgba(128, 128, 128, 0.483);
